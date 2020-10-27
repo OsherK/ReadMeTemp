@@ -4,8 +4,8 @@
 Find out more about me & feel free to connect with me.**
 
 ### 📫 Reach me on
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osher-kabeda-2803981b3/)](https://www.linkedin.com/in/liam-zety/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osherzasx@gmail.com)](mailto:liamzroma@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osher-kabeda-2803981b3/)](https://www.linkedin.com/in/osher-kabeda-2803981b3/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osherzasx@gmail.com)](mailto:osherzasx@gmail.com)
 
 ### 👨‍💻 Who am I?
  ```javascript
