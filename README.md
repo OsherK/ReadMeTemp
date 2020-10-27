@@ -1,22 +1,20 @@
 <img src="https://i.imgur.com/2N8Zjms.png" width="300"  />
 
-**Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, </br>
-a gym addict and a code writer superhero :smirk:  </br>
+**Hi, I'm Osher, a Full-Stack Web Developer, </br>
 Find out more about me & feel free to connect with me.**
 
 ### 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osher-kabeda-2803981b3/)](https://www.linkedin.com/in/liam-zety/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osherzasx@gmail.com)](mailto:liamzroma@gmail.com)
 
 ### 👨‍💻 Who am I?
  ```javascript
  
  function WhoAmI =() => {
-  const [name, setName] = useState('Liam Zety');
+  const [name, setName] = useState('Osher Kabeda');
   const [currentEdu, setCurrentEdu] = useState('Graduate @ Coding Academy.');
   
   const hobbies = [
-        'Lifting Heavy Weights!',
 	'Coding!',
 	'Playing Video Games',
 			];
@@ -56,4 +54,4 @@ Find out more about me & feel free to connect with me.**
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=OsherK&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsherK&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=liamzety.liamzety)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OsherK.OsherK)
