@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/IDPL1Hm" width="300"  />
+<img src="https://i.imgur.com/2N8Zjms.png" width="300"  />
 
 **Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, </br>
 a gym addict and a code writer superhero :smirk:  </br>
